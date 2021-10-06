@@ -1,0 +1,38 @@
+1) Посмотреть где я  										- pwd
+2) Создать папку										- mkdir folder_name
+3) Зайти в папку										- cd folder name
+4) Создать 3 папки										- mkdir folder1 folder2 folder3
+5) Зайти в любоую папку										- cd folder1
+6) Создать 5 файлов (3 txt, 2 json)								- touch 1.txt 2.txt 3.txt 1.json 2.json
+7) Создать 3 папки										- mkdir 1 2 3
+8. Вывести список содержимого папки								- ls - la
+9) + Открыть любой txt файл									- vim
+10) + написать туда что-нибудь, любой текст.							- i or insert    + type text
+11) + сохранить и выйти.									- esc + :wq  where w for write and q for quit
+12) Выйти из папки на уровень выше								- cd ..
+—
+13) переместить любые 2 файла, которые вы создали, в любую другую папку.			- mv ./folder1/{1.txt,2.txt} ./folder2/
+14) скопировать любые 2 файла, которые вы создали, в любую другую папку.			- cp ./folder2/{1.txt,2.txt} ./folder3/
+15) Найти файл по имени										- find -name 1.txt
+16) просмотреть содержимое в реальном времени (команда grep) изучите как она работает.		- grep what_to_find where_to_find.txt  /// смотреть в реальном времени - tail -f file_name.txt
+17) вывести несколько первых строк из текстового файла						- head -n3 file_name.txt
+18) вывести несколько последних строк из текстового файла					- tail -n3 file_name.txt
+19) просмотреть содержимое длинного файла (команда less) изучите как она работает.		- less file_name.txt  - постраничный просмотр
+20) вывести дату и время									- date	
+
+
+Задание *
+1) Отправить http запрос на сервер. http://162.55.220.72:5005/terminal-hw-request		- curl "http://162.55.220.72:5005/get_method?name=Alex&age=22"
+2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13 
+
+# #!/bin/bash
+
+cd folder
+mkdir 1 2 3
+cd 1
+touch 1.txt 2.txt 3.txt 1.json 2.json
+mkdir 1 2 3
+ls - la
+mv ./{1.txt,2.txt} ./2/
+
+file must be .sh format to run enter ./sсript.sh
