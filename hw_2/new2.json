@@ -2,6 +2,11 @@
 	"FirtstName": "Alex",
 	"Age": "22",
 	"Pets": "no-pets",
-	"WishedSalary": "10000$"
+	"WishedSalary": "10000$",
+	"FavoriteFilm": "Iron Man",
+	"FavoriteSerial": "NCIS",
+	"FavoriteFood": "Pizza",
+	"FavoriteTime": "Summer",
+	"Country": "Ukraine"
 
 }
