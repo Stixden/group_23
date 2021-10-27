@@ -26,7 +26,7 @@ select * from students where password = '12333';
 select * from students where created_on = '2021-03-26 00:00:00.000';
 
 -- 10. Вывести пользователей где в имени есть слово Анна
-select * from students where name = 'Анна';
+select * from students where name like '%Анна%';
 
 -- 11. Вывести пользователей где в имени в конце есть 8
 select * from students where name like '%8';
