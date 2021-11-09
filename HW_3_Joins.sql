@@ -115,7 +115,7 @@ select monthly_salary, role_name from salary
 join employee_salary on employee_salary.employee_id = salary.id 
 join roles_employee on employee_salary.employee_id = roles_employee.employee_id 
 join roles on roles_employee.role_id = roles.id 
-where role_name like '%Java%';
+where role_name like '%Java %';
 
 -- 16. Вывести зарплаты Python разработчиков
 
