@@ -235,7 +235,7 @@ join roles r on re.role_id = r.id
 join employee_salary es on es.employee_id = re.employee_id 
 join salary s on es.salary_id = s.id 
 where monthly_salary between 1700 and 2300
-order by (monthly_salary) desc;
+order by (monthly_salary) asc;
 
 -- 31. Вывести имена, должности и ЗП всех специалистов по возрастанию у специалистов у которых ЗП меньше 2300
 
@@ -256,5 +256,5 @@ join roles r on re.role_id = r.id
 join employee_salary es on es.employee_id = re.employee_id 
 join salary s on es.salary_id = s.id 
 where monthly_salary = 1100 or monthly_salary = 1500 or monthly_salary = 2000;
-
+-- or where monthly_salary in (1100, 1500, 2000)
 
