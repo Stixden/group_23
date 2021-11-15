@@ -1,0 +1,49 @@
+11-15 22:10:07.697 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 1 line
+11-15 22:10:08.985  2009  2388 E InputDispatcher: Window handle Window{dc46a4 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:10:10.970  2009  2980 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@81e60ca
+11-15 22:10:11.429  2009  2980 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10136
+11-15 22:10:13.023  2009  2388 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10136
+11-15 22:10:13.464  2009  2027 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@d88f2ea
+11-15 22:10:13.355 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 14 lines
+11-15 22:10:24.303 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 2 lines
+11-15 22:12:33.338  2009  2026 E InputDispatcher: Window handle Window{b4197af u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:12:34.177 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 2 lines
+11-15 22:13:53.619  2009  2027 E InputDispatcher: Window handle Window{aa86e97 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:13:54.997 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 2 lines
+11-15 22:13:56.080  2009  3297 E InputDispatcher: Window handle Window{d06a676 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:13:58.074  2009  2026 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@966350a
+11-15 22:14:01.697  2009  2300 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[38,392][239,696]} from uid 10090
+11-15 22:14:02.173  1791  1791 E Layer   : [Surface(name=AppWindowToken{bed05cf token=Token{9e6f62e ActivityRecord{3d100a9 u0 com.android.todolist/.MainActivity t22}}})/@0xe78951d - animation-leash#0] No local sync point found
+11-15 22:14:02.173  1791  1791 E Layer   : [Surface(name=AppWindowToken{bed05cf token=Token{9e6f62e ActivityRecord{3d100a9 u0 com.android.todolist/.MainActivity t22}}})/@0xe78951d - animation-leash#0] No local sync point found
+11-15 22:14:08.884  2009  2027 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10136
+11-15 22:14:10.901  2009  2027 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@10d07b
+11-15 22:14:10.874 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 1 line
+11-15 22:14:18.395 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 2 lines
+11-15 22:14:19.125  9129  9129 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+11-15 22:14:19.134  9129  9129 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+11-15 22:14:20.128  2009  4022 E InputDispatcher: Window handle Window{412d3f3 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:32:07.858  2009  2115 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[38,392][239,696]} from uid 10090
+11-15 22:32:08.345  1791  1791 E Layer   : [Surface(name=AppWindowToken{1c33e94 token=Token{9e532e7 ActivityRecord{48dc8a6 u0 com.android.todolist/.MainActivity t22}}})/@0x3437f18 - animation-leash#0] No local sync point found
+11-15 22:32:08.345  1791  1791 E Layer   : [Surface(name=AppWindowToken{1c33e94 token=Token{9e532e7 ActivityRecord{48dc8a6 u0 com.android.todolist/.MainActivity t22}}})/@0x3437f18 - animation-leash#0] No local sync point found
+11-15 22:32:08.366  1791  1791 E Layer   : [Surface(name=AppWindowToken{1c33e94 token=Token{9e532e7 ActivityRecord{48dc8a6 u0 com.android.todolist/.MainActivity t22}}})/@0x3437f18 - animation-leash#0] No local sync point found
+11-15 22:32:09.365 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 1 line
+11-15 22:32:09.804  9129  9129 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+11-15 22:32:09.818  9129  9129 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+11-15 22:32:10.411 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 3 lines
+11-15 22:32:10.535  2009  4020 E InputDispatcher: Window handle Window{4ed71cb u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:32:10.554  2009  4728 E InputDispatcher: Window handle Window{4ed71cb u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:32:12.115 11756 11786 I chatty  : uid=10136(com.android.todolist) RenderThread identical 2 lines
+11-15 22:32:13.383  9129  9129 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+11-15 22:32:13.394  9129  9129 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+11-15 22:32:15.048  2009  2115 E InputDispatcher: Window handle Window{5253326 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:32:15.067  2009  6335 E InputDispatcher: Window handle Window{5253326 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+11-15 22:32:15.715  2009  6335 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10136
+11-15 22:32:16.970  9129  9129 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+11-15 22:32:16.977  9129  9129 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+11-15 22:32:17.733  2009  2027 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@c775293
+11-15 22:32:18.697  9129  9129 I AndroidIME: PasswordIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+11-15 22:32:18.703  9129  9129 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+11-15 22:32:22.181  9129  9129 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+11-15 22:32:22.233  9129  9129 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+11-15 22:32:23.710  9129  9129 I AndroidIME: PasswordIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+11-15 22:32:23.716  9129  9129 I Conv2QueryExtension: Conv2Que
